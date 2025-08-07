@@ -77,7 +77,7 @@ Then run the `.exe` inside the `dist` folder.
 ## 🙏 Author
 
 Made with ❤️ by Bassel Mahmoud  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/bassel-mahmoud12/) 
 
 ---
 
